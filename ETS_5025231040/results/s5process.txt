@@ -1,0 +1,19 @@
+No  Operasi  Volume Client Server Waktu      Throughput   Client S/G      Server S/G     
+1   UPLOAD   10MB   1      5      1.55       6769545.6    1/0             1/0            
+2   UPLOAD   10MB   5      5      1.39       7529823.99   2/3             2/3            
+3   UPLOAD   10MB   50     5      2.78       3771174.52   5/45            5/45           
+4   UPLOAD   50MB   1      5      -          -            0/1             0/1            
+5   UPLOAD   50MB   5      5      -          -            0/5             0/5            
+6   UPLOAD   50MB   50     5      12.52      4188384.24   5/45            5/45           
+7   UPLOAD   100MB  1      5      -          -            0/1             0/1            
+8   UPLOAD   100MB  5      5      -          -            0/5             0/5            
+9   UPLOAD   100MB  50     5      26.47      3960784.33   5/45            5/45           
+10  DOWNLOAD 10MB   1      5      1.14       9202899.85   1/0             1/0            
+11  DOWNLOAD 10MB   5      5      1.93       5437347.28   5/0             5/0            
+12  DOWNLOAD 10MB   50     5      10.87      1501492.82   50/0            50/0           
+13  DOWNLOAD 50MB   1      5      5.74       9127271.32   1/0             1/0            
+14  DOWNLOAD 50MB   5      5      10.06      5212028.2    5/0             5/0            
+15  DOWNLOAD 50MB   50     5      75.4       1325944.96   50/0            50/0           
+16  DOWNLOAD 100MB  1      5      19.92      5262683.08   1/0             1/0            
+17  DOWNLOAD 100MB  5      5      28.37      3696156.76   5/0             5/0            
+18  DOWNLOAD 100MB  50     5      173.99     915524.27    50/0            50/0   

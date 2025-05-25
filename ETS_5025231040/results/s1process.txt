@@ -1,0 +1,20 @@
+(base) jovyan@70da7026cdd1:~/work/progjar/ets$ python3 stress_test.py 
+No  Operasi  Volume Client Server Waktu      Throughput   Client S/G      Server S/G     
+1   UPLOAD   10MB   1      1      -          -            0/1             0/1            
+2   UPLOAD   10MB   5      1      -          -            0/5             0/5            
+3   UPLOAD   10MB   50     1      -          -            0/50            0/50           
+4   UPLOAD   50MB   1      1      -          -            0/1             0/1            
+5   UPLOAD   50MB   5      1      -          -            0/5             0/5            
+6   UPLOAD   50MB   50     1      -          -            0/50            0/50           
+7   UPLOAD   100MB  1      1      -          -            0/1             0/1            
+8   UPLOAD   100MB  5      1      -          -            0/5             0/5            
+9   UPLOAD   100MB  50     1      -          -            0/50            0/50           
+10  DOWNLOAD 10MB   1      1      -          -            0/1             0/1            
+11  DOWNLOAD 10MB   5      1      -          -            0/5             0/5            
+12  DOWNLOAD 10MB   50     1      -          -            0/50            0/50           
+13  DOWNLOAD 50MB   1      1      -          -            0/1             0/1            
+14  DOWNLOAD 50MB   5      1      -          -            0/5             0/5            
+15  DOWNLOAD 50MB   50     1      -          -            0/50            0/50           
+16  DOWNLOAD 100MB  1      1      -          -            0/1             0/1            
+17  DOWNLOAD 100MB  5      1      -          -            0/5             0/5            
+18  DOWNLOAD 100MB  50     1      -          -            0/50            0/50 
